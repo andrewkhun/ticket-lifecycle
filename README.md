@@ -48,7 +48,7 @@ The next ticket will be made as 'karen' and categorized as a 'Business Critical 
 <img src="https://imgur.com/AI8PlFl.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Below you can see the tickets as we have logged in as 'Supreme Admin', 'jane doe'.
+Logging into osTicket as 'jane doe' we can see the previously made tickets appear in the open ticket queue, ready to be resolved.
 </p>
 <p>
 <img src="https://imgur.com/MTUc700.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
