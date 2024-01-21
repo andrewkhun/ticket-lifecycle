@@ -85,9 +85,26 @@ Using the options above, we can adjust the ticket as needed. Any changes will be
 The Agent can also message the End User through the Ticket Thread to update the User or other Agents about the status of the ticket. At the bottom, you can also adjust the Ticket's Status if the issues have been resolved. 
 </p>
 <p>
-<img src="https://imgur.com/undefined.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/SIceVh9.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://imgur.com/utKFoLJ.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 </p>
 
 
 <h2>Resolution</h2>
-
+<p>
+Continuing with the ticket's issue, we have left a response to the fact that our website is currently down. Since this is a high-priority and high-impact ticket, we must resolve it right away. Once a solution has been found we can post a reply to let the user know and finally resolve and close the ticket.
+</p>
+<p>
+<img src="https://imgur.com/MAo0XOp.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Any open tickets that are resolved become closed tickets and are then moved into the 'Closed Ticket' queue where the information and status of the ticket are archived. 
+</p>
+<p>
+<img src="https://imgur.com/10ftEPH.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Congratulations! You now understand the Ticket Lifecycle! This concludes the lab!
+</p>
